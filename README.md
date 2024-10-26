@@ -4,11 +4,11 @@ FullStack Developer (Angular + Java + MySQL)
 ---------------------------------------
 
 * 🌍  Vivo en Argentina, Alejandro Korn
-* 🖥️  Ve mi portfolio [aqui](https://mauriciorios-c84ac.web.app/home)
+* 🖥️  Ve mi portfolio [aqui]() En renovación
 * ✉️  Puedes contactarme en [mauri.rios991@gmail.com](mailto:mauri.rios991@gmail.com)
-* 🧠  Estoy aprendiendo Angular y Java
+* 🧠  Angular y Java 
 
-<img src="https://mauriciorios-c84ac.web.app/assets/img/iex.jpg" style="max-width: 100%; display: inline-block;" />
+<img src="" style="max-width: 100%; display: inline-block;" />
 
 ## Habilidades
 
