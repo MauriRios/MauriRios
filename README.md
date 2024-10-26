@@ -1,12 +1,16 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Mauricio Rios
 ======================================================================================================================================
-FullStack Developer (Angular + Java + MySQL)
+FullStack Developer (Angular + Java + MySQL/Postgresql)
 ---------------------------------------
 
 * 🌍  Vivo en Argentina, Alejandro Korn
 * 🖥️  Ve mi portfolio [aqui]() En renovación
 * ✉️  Puedes contactarme en [mauri.rios991@gmail.com](mailto:mauri.rios991@gmail.com)
-* 🧠  Angular y Java 
+* 🧠  Estoy aprendiendo AWS, Kubernetes, Jenkins y VPS.
+
+* Proyectos:
+  - www.creacionesbruan.shop (subido a mi VPS con dominio y certificado SSL)
+  - ebrios-commerce.web.app/home (tarda en cargar porque está en hosting gratuito)
 
 ## Habilidades
 
