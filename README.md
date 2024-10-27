@@ -10,7 +10,7 @@ FullStack Developer (Angular + Java + MySQL/Postgresql)
 
 * Proyectos:
   - www.creacionesbruan.shop (subido a mi VPS con dominio y certificado SSL)
-  - ebrios-commerce.web.app/home (tarda en cargar porque está en hosting gratuito)
+  - ebrios-commerce.web.app (tarda en cargar porque está en hosting gratuito)
 
 ## Habilidades
 
