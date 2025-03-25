@@ -3,7 +3,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 FullStack Developer (Angular + Java + MySQL/Postgresql)
 ---------------------------------------
 
-* 🌍  Vivo en Argentina, Alejandro Korn
+* 🌍  Vivo en Argentina
 * 🖥️  Ve mi portfolio [aqui]() En renovación
 * ✉️  Puedes contactarme en [mauri.rios991@gmail.com](mailto:mauri.rios991@gmail.com)
 * 🧠  Estoy aprendiendo AWS, Kubernetes, Jenkins y VPS.
