@@ -4,7 +4,7 @@ FullStack Developer (Angular + Java + MySQL/Postgresql)
 ---------------------------------------
 
 * 🌍  Vivo en Argentina
-* 🖥️  Ve mi portfolio [aqui]() En renovación
+* 🖥️  Portfolio: En renovación
 * ✉️  Puedes contactarme en [mauri.rios991@gmail.com](mailto:mauri.rios991@gmail.com)
 * 🧠  Estoy aprendiendo AWS, Kubernetes, Jenkins y VPS.
 
